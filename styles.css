@@ -1,0 +1,51 @@
+html{
+    height=100%;
+}
+
+body{
+    background-color:rgb(93, 8, 93);
+    background-image: A:\Web_design;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+}
+header{
+    height:118px;
+    text-align:center;
+}
+nav{
+    background-color: aqua;
+    height:48px;
+}
+main{
+    height: 480px;
+    color: azure;
+    text-align:left;
+    padding-top:80px;
+    padding-left:240px;
+    padding-right:240px;
+}
+footer{
+    background-color: bisque;
+    height:180px;
+}
+h1{
+    font-size:84px;
+    color:rgb(236, 54, 22);
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    font-size:18px;
+    color:rgb(245, 15, 15);
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
